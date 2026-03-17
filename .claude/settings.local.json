@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(pip install:*)",
+      "Bash(pip list:*)",
+      "Bash(python:*)",
+      "Bash(streamlit run:*)",
+      "Bash(gh auth:*)",
+      "Bash(git init:*)",
+      "Bash(ls:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(gh repo:*)"
+    ]
+  }
+}
